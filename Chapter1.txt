@@ -1,4 +1,4 @@
-Chapter 1 - first version
+Chapter 1 - second version
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Mauris porttitor nisi in suscipit sollicitudin.
@@ -8,15 +8,3 @@ Ut non faucibus risus.
 Proin felis sapien, feugiat ut vulputate quis, consequat quis justo.
 Sed pellentesque nibh feugiat velit rutrum ornare.
 Duis eget eros consequat, maximus nisi ut, ornare purus. In in felis sed ante hendrerit finibus non eu leo.
-
-Nunc nec massa sit amet quam vulputate viverra.
-Nam dapibus tincidunt massa sed auctor.
-Pellentesque tempus dictum sapien vitae rhoncus.
-Sed in ex euismod, imperdiet metus id, iaculis diam.
-Donec quis iaculis eros.
-Etiam accumsan sem quam, eu varius quam vehicula eu.
-Aliquam vestibulum urna at dui pharetra finibus.
-Duis venenatis non lacus vel interdum.
-Maecenas non est nibh.
-Maecenas semper, sem id feugiat tempus, enim turpis laoreet leo, ut suscipit velit tellus nec ante.
-Duis eleifend posuere leo eu scelerisque.
