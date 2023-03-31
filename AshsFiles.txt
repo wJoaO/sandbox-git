@@ -1,0 +1,3 @@
+cd AshsFiles.tzt
+cd AshsFiles.txt
+ls
