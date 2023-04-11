@@ -1,0 +1,20 @@
+{
+    "name": "rigz-test-automation",
+    "description": "End to end Cypress tests for https://app.gorigz.com",
+    "scripts": {
+      "cy:open": "cypress open",
+      "lint": "eslint --resolve-plugins-relative-to . ./src/ ./__mocks__/ ./functions/index.js ./functions/documentManagers/ ./functions/endpoints/ ./functions/cron/ ./functions/utils.js ./functions/services/",
+      "lint-fix": "eslint --fix './__mocks__' './src' './functions/index.js' './functions/documentManagers' './functions/cron' './functions/endpoints' './functions/utils.js' './functions/services'"
+    }
+    ,
+    "author": "RIGZ LLC",
+    "license": "ISC",
+    "dependencies": {
+      "cypress": "^12.5.1"
+    },
+    "devDependencies": {
+      "eslint": "^8.34.0",
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-plugin-import": "^2.27.5"
+    }
+  }
