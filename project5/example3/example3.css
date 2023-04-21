@@ -1,0 +1,20 @@
+#my-name {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+.red-style {
+    background-color: red;
+    text-align: center;
+    color: white;
+
+    font-size: 50px;
+
+
+}
